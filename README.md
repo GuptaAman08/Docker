@@ -1,2 +1,2 @@
-# Docker-Kubernetes
-This repository will contain beginner to intermediate level Docker and Kubernetes code examples.
+# Docker
+This repository will contain beginner to intermediate level Docker code examples.
